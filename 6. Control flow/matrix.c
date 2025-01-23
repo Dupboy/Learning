@@ -7,7 +7,7 @@ int main(){
  char flaw[] = "Wake up neo";
 
  printf("Its time to escape the matrix Neo\n");
- printf("You are on their radar Neo\n");
+ printf("You are on their radar \n");
 
   //
  
