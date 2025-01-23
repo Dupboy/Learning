@@ -17,7 +17,7 @@ int main(){
     printf("1\t2\t3\n4\t5\t6\n7\t8\t9");
 
     // Printing quotes
-    printf("\n\"I love myself\" -Victor Ngeno");
+    printf("\n\"I love myself and my family\" -Victor Ngeno\n");
 
     return 0;
 }
