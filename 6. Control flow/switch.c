@@ -30,9 +30,5 @@ int main(){
         printf("Please enter valid grade\n");        
     }
   
-
-
-
-
     return 0;
 }
