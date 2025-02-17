@@ -7,7 +7,7 @@ int main(){
 
 const float PI = 3.14159;
 float radius;
-float area;
+loat area;
 
 char welcome [] = "This is my area of a circle calculator";
 char end [] = "Thank you for using me";

@@ -39,7 +39,7 @@ int main(){
 		    printf("Result:%0.2lf\n", result);
 		    break;
 	    default:
-		    printf("%c is not valid", operator);
+		    printf("Operator %c is not valid\n:", operator);
 
 
 

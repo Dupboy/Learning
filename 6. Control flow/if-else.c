@@ -9,7 +9,6 @@ int main(){
 
     if(age >= 18){
         printf("You are now signed up\n");
-
     }
     else if(age < 3){
         printf("You are a toddler\n");
