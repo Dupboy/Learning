@@ -14,10 +14,10 @@ int main(){
  */
 
  printf("hello\nworld\nits sexy\n");
-    printf("1\t2\t3\n4\t5\t6\n7\t8\t9");
+    printf("1\t2\t3\n4\t5\t6\n7\t8\t9\n");
 
     // Printing quotes
-    printf("\n\"I love myself and my family\" -Victor Ngeno\n");
+    printf("\"I love myself and my family\" -Victor Ngeno\n");
 
     return 0;
 }
